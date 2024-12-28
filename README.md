@@ -6,6 +6,8 @@
 
 <img src="Assets/prdp-banner.png" width="100%"/>
 
+⚠️ As of August 2024, PowerRemoteDesktop has been rebranded as Arcane and is now available through [this official repository](https://github.com/PhrozenIO/Arcane). The current repository will no longer be maintained. Please be sure to bookmark the new repository and leave a star if you find it useful!
+
 Welcome to **Power Remote Desktop** for remote desktop access in pure PowerShell! This module offers a unique solution for remotely controlling one or multiple screens using only PowerShell. Unlike other remote desktop tools that rely on external protocols and software, our module utilizes its own  remote desktop protocol.
 
 The module consists of both a client and a server component, both of which are written entirely in PowerShell. Our protocol provides secure, encrypted communication using TLS and offers both challenge-based password authentication and certificate-based authentication.
